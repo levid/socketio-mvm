@@ -13,6 +13,7 @@ resources:
 network:
   forwarded_ports:
   - 3000
+  - 3000:8080
 
 health_check:
   enable_health_check: false
