@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # socketio-gcmvm
 
 A quick demo for node.js and socket.io on Google App Engine Managed VMs using Custom Runtimes.
@@ -30,4 +29,3 @@ You cannot access the app through the *.appspot.com host.  You have to look up t
 =======
 # socketio-mvm
 Forked from https://github.com/jdeskins/socketio-gcmvm.git
->>>>>>> 81525d9252a5b0603fbd483e33598e2db7452835
