@@ -1,6 +1,6 @@
 # socketio-gcmvm
 
-A quick demo for node.js and socket.io on Google App Engine Managed VMs using Custom Runtimes.
+A quick demo for node.js and socket.io on Google App Engine Managed VMs using Custom Runtimes. You can see a working demo of it here: http://104.197.126.175:3000/
 
 ## Usage
 
